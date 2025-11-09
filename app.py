@@ -107,4 +107,4 @@ st.download_button(
     mime="text/csv"
 )
 
-st.success("✅ Données affichées automatiquement depuis l'API Open Beauty Facts")
+st.success("Données affichées automatiquement depuis l'API Open Beauty Facts")
